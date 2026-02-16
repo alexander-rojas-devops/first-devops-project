@@ -37,7 +37,7 @@ This is my first DevOps project where I'm learning and practicing fundamental co
 
 ##  What I've Learned
 
-### Week 1: Git Fundamentals
+### Git Fundamentals
 - Repository initialization
 - Staging and committing changes
 - Working with remote repositories
@@ -81,14 +81,14 @@ first-devops-project/
 - Linux command line tutorials
 - DevOps roadmap and best practices
 
-## 💡 Key Takeaways
+##  Key Takeaways
 
 1. **Commit often** - Small, frequent commits are better than large ones
 2. **Write clear messages** - Future me will thank present me
 3. **Use branches** - Never work directly on main in production
 4. **Document everything** - If it's not documented, it doesn't exist
 
-## 🚀 Next Steps
+##  Next Steps
 
 1. Create my first Bash script
 2. Learn about branching strategies (Git Flow)
@@ -96,7 +96,7 @@ first-devops-project/
 4. Build a simple deployment script
 5. Set up automated backups
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - GitHub: [alexander-rojas-devops](https://github.com/YOUR-USERNAME)
 - LinkedIn: [in/alexander-rojas-devops](https://www.linkedin.com/in/alexander-rojas-devops/)
